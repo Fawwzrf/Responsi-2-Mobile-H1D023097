@@ -3,10 +3,10 @@
 Aplikasi *mobile* berbasis **Flutter** untuk manajemen inventaris barang (Komputer & Aksesoris), yang terintegrasi dengan backend **REST API CodeIgniter 4**. Aplikasi ini dibuat untuk memenuhi tugas Responsi 2 Mata Kuliah Mobile Programming.
 
 ## 👤 Identitas Praktikan
-* **Nama:** Fawwaz
+* **Nama:** Fawwaz Aufa Al Ghautsa Rafi
 * **NIM:** H1D023097
-* **Shift Baru:** [ISI SHIFT BARU ANDA, CONTOH: SHIFT 1]
-* **Shift Asal:** [ISI SHIFT ASAL ANDA]
+* **Shift Baru:** Shift E
+* **Shift Asal:** Shift I
 * **Tema:** Grey (Abu-abu) - Clean Minimalist
 
 ## 📱 Fitur Utama
@@ -123,8 +123,13 @@ Berikut adalah endpoint yang dibuat di CodeIgniter 4:
 
 ## 🎥 Demo Aplikasi
 Berikut adalah link video demo penggunaan aplikasi:
-**[MASUKKAN LINK VIDEO YOUTUBE / GOOGLE DRIVE ANDA DI SINI]**
+
+
+https://github.com/user-attachments/assets/569fd032-4a68-4377-9302-d1a0bafaa02d
+
+
 
 ---
 
 *Dibuat untuk memenuhi tugas praktikum Mobile Programming.*
+
